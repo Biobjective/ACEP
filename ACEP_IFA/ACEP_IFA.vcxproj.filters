@@ -21,12 +21,15 @@
     <ClCompile Include="..\..\..\Basic_Graph\BasicGraph\BasicGraph\path.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="route_a.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="path.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="route.h">
+    <ClInclude Include="route_a.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -145,10 +145,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\Basic_Graph\BasicGraph\BasicGraph\path.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="route_a.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="path.h" />
-    <ClInclude Include="route.h" />
+    <ClInclude Include="route_a.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
